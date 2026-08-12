@@ -53,3 +53,8 @@ footer {
     padding: 15px;
     margin-top: 30px;
 }
+
+article h2,
+article > p:first-of-type {
+    text-align: center;
+}
